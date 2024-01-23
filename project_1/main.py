@@ -6,6 +6,11 @@ import time
 import datetime
 import csv
 
+
+# Poprawność zadań: 11/11
+# Dodatki: 0.5/2
+# Znormalizowane: 0,8846153846
+
 n = int(input("Podaj liczbę n: "))
 
 def ex_1():
